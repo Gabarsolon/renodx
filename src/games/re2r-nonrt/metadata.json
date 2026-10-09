@@ -1,0 +1,18 @@
+{
+  "$schema": "https://cdn.jsdelivr.net/gh/clshortfuse/renodx/renodx-metadata-schema.json",
+  "id": "re2r-nonrt",
+  "title": "Resident Evil 2 Remake (DX11 non-RT build)",
+  "maintainers": [
+    "Gabarsolon"
+  ],
+  "status": "experimental",
+  "games": [
+    {
+      "title": "Resident Evil 2 Remake (dx11_non-rt branch)",
+      "status": "experimental",
+      "deploy": {
+        "steam_appid": 883710
+      }
+    }
+  ]
+}
